@@ -6,7 +6,7 @@
             <title>Version 1.4.0</title>
             <description>desc</description>
             <pubDate>Sun, 7 Agosto 2020 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.mainclass.doarti" sparkle:version="1.4.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.mainclass.doarti" sparkle:version="1.4.0" sparkle:os="android"> </enclosure>
         </item>
     </channel>
 </rss>
